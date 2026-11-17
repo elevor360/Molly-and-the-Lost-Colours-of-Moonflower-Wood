@@ -1,0 +1,20 @@
+TITLE
+Elevor360D — Molly and the Lost Colours of Moonflower Wood
+
+CATEGORY
+Books & Reading
+
+APP ID
+molly-moonflower-wood
+
+SHORT DESCRIPTION
+Join Molly, a rainbow-haired Yorkshire terrier with pink sunglasses and a
+peace-loving heart, as she ventures into an enchanted wood where colours are
+vanishing. A funny, illustrated fantasy adventure about friendship, courage
+and kindness, with 50 story pages and offline reading.
+
+PROMOTIONAL IMAGE
+Molly_Moonflower_Wood_Banner.jpg (1672 x 941 pixels)
+
+OPENING URL
+Use the published GitHub Pages address shown in your repository's Pages settings.
