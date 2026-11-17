@@ -355,7 +355,7 @@ window.BOOK = [
     "chapter": 3,
     "chapterTitle": "The Bridge That Had Forgotten Its Song",
     "paragraphs": [
-      "BBramble found one more book.",
+      "Bramble found one more book.",
       "It had a torn cover.",
       "\"Here it is!\" he said.",
       "They sat round the desk.",
